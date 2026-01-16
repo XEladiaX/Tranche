@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Tranche/static/css/main.ffa17d22.css",
-    "main.js": "/Tranche/static/js/main.1813a119.js",
+    "main.css": "/Tranche/static/css/main.c860773e.css",
+    "main.js": "/Tranche/static/js/main.132f8405.js",
     "index.html": "/Tranche/index.html",
-    "main.ffa17d22.css.map": "/Tranche/static/css/main.ffa17d22.css.map",
-    "main.1813a119.js.map": "/Tranche/static/js/main.1813a119.js.map"
+    "main.c860773e.css.map": "/Tranche/static/css/main.c860773e.css.map",
+    "main.132f8405.js.map": "/Tranche/static/js/main.132f8405.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffa17d22.css",
-    "static/js/main.1813a119.js"
+    "static/css/main.c860773e.css",
+    "static/js/main.132f8405.js"
   ]
 }
